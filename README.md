@@ -1,4 +1,6 @@
-### Hi there 👋
+### Soar higher!
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DanSowaru/DanSowaru/blob/master/devcard.svg" width="400" alt="Dan Sowaru's Dev Card"/></a>
 
 <!--
 **DanSowaru/DanSowaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
