@@ -1,5 +1,4 @@
 
-<a href="https://https://github.com/DanSowaru/DanSowaru"><img src="https://github.com/DanSowaru/DanSowaru/blob/main/devcard.svg" width="200" alt="Dan Sowaru's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Danilo Soares</h1>
 <h3 align="center">A fast learning fullstack developer from Rio de Janeiro</h3>
@@ -9,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru" alt="dansowaru" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dansowaru" target="blank"><img src="https://img.shields.io/twitter/follow/dansowaru?logo=twitter&style=for-the-badge" alt="dansowaru" /></a> </p>
+
+<p align="center"><a href="https://https://github.com/DanSowaru/DanSowaru"><img src="https://github.com/DanSowaru/DanSowaru/blob/main/devcard.svg" width="400" alt="Dan Sowaru's Dev Card"/></a></p>
 
 - 🔭 I’m currently working on [the new website for Centro Universitário Signorelli](https://github.com/DanSowaru/Site-Signorelli-Novo)
 
