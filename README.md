@@ -1,5 +1,5 @@
 
-<a align="center" href="https://https://github.com/DanSowaru/DanSowaru"><img src="https://github.com/DanSowaru/DanSowaru/blob/main/devcard.svg" width="400" alt="Dan Sowaru's Dev Card"/></a>
+<a href="https://https://github.com/DanSowaru/DanSowaru"><img src="https://github.com/DanSowaru/DanSowaru/blob/main/devcard.svg" width="200" alt="Dan Sowaru's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Danilo Soares</h1>
 <h3 align="center">A fast learning fullstack developer from Rio de Janeiro</h3>
@@ -38,6 +38,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/dansowaru"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dansowaru" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dansowaru&show_icons=true&locale=en&layout=compact" alt="dansowaru" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dansowaru&show_icons=true&locale=en&layout=compact" alt="dansowaru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dansowaru&show_icons=true&locale=en" alt="dansowaru" /></p>
