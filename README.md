@@ -56,4 +56,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dansowaru&show_icons=true&locale=en&layout=compact" alt="dansowaru" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dansowaru&show_icons=true&locale=en" alt="dansowaru" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dansowaru?cardType=github&theme=flag-brazil)](https://git.io/awesome-stats-card)
+
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dansowaru&show_icons=true&locale=en" alt="dansowaru" /></p> -->
