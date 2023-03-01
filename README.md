@@ -18,9 +18,9 @@
   
   <br><br>
 
-🔭 I’m currently working on [the new website for Centro Universitário Signorelli](https://github.com/DanSowaru/Site-Signorelli-Novo)
+🔭 I’m currently working on [Storex-Renner PDV for Renner](https://www.lojasrenner.com.br/)
 
-🌱 I’m currently learning **Microsservices and Cloud @ Let's Code**
+🌱 I’m currently learning **Java FX and Machine Status @ Linx**
 
 👨‍💻 All of my projects are available at [my repositories](https://github.com/DanSowaru?tab=repositories)
 
