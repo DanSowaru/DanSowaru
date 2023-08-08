@@ -18,9 +18,9 @@
   
   <br><br>
 
-🔭 I’m currently working on [Storex-Renner PDV for Renner](https://www.lojasrenner.com.br/)
+🔭 I’m currently working on [my Java Game and my Angular site](https://github.com/DanSowaru/Sunflower-Saga)
 
-🌱 I’m currently learning **Java FX and Machine Status @ Linx**
+🌱 I’m currently deepening my knowledge on **Java and Angular**
 
 👨‍💻 All of my projects are available at [my repositories](https://github.com/DanSowaru?tab=repositories)
 
