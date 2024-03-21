@@ -4,8 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dansowaru&label=Profile%20views&color=0e75b6&style=flat" alt="dansowaru" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru&theme=dracula&rank=-UNKNOWN&margin-w=20" alt="dansowaru" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru&theme=dracula&row=3&column=3" alt="dansowaru" /></a> </p>
 <br><br>
 
 <p align="center"> <a href="https://twitter.com/dansowaru" target="blank"><img src="https://img.shields.io/twitter/follow/dansowaru?logo=twitter&style=for-the-badge" alt="dansowaru" /></a> </p>
