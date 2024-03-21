@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Danilo Soares</h1>
-<h3 align="center">A fast learning fullstack developer from Rio de Janeiro</h3>
+<h1 align="center">Merhaba 👋, I'm Danilo Soares</h1>
+<h3 align="center">A flexible fullstack developer from Rio de Janeiro and a hobbyst artist!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dansowaru&label=Profile%20views&color=0e75b6&style=flat" alt="dansowaru" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru&theme=dracula" alt="dansowaru" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru&theme=dracula&rank=-C" alt="dansowaru" /></a> </p>
 
 <br><br>
 
