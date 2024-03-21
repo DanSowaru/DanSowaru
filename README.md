@@ -3,23 +3,26 @@
 <h3 align="center">A flexible fullstack developer from Rio de Janeiro and a hobbyst artist!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dansowaru&label=Profile%20views&color=0e75b6&style=flat" alt="dansowaru" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru&theme=dracula&row=3&column=3" alt="dansowaru" /></a> </p>
-<br><br>
-
 <p align="center"> <a href="https://twitter.com/dansowaru" target="blank"><img src="https://img.shields.io/twitter/follow/dansowaru?logo=twitter&style=for-the-badge" alt="dansowaru" /></a> </p>
 
-<br><br>
+<div align="center">
+	
+| Trophies | Dev Card |
+| -------- | -------- |
+| <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru&theme=dracula&row=3&column=3&margin=10" alt="dansowaru" /></a> </p> | <p align="center"><a href="https://https://github.com/DanSowaru/DanSowaru"><img src="https://github.com/DanSowaru/DanSowaru/blob/main/devcard.svg" width="300" alt="Dan Sowaru's Dev Card"/></a></p> |
 
-<p align="center"><a href="https://https://github.com/DanSowaru/DanSowaru"><img src="https://github.com/DanSowaru/DanSowaru/blob/main/devcard.svg" width="400" alt="Dan Sowaru's Dev Card"/></a></p>
+</div>
+<br>
+
+
 
 <span align="center">
   
-  <br><br>
+  <br>
 
-🔭 I’m currently working on [my Java Game and my Angular site](https://github.com/DanSowaru/Sunflower-Saga)
+🔭 I’m currently working on [my Vue game Stray Dogs](https://github.com/DanSowaru/stray-dogs-v6)
 
-🌱 I’m currently deepening my knowledge on **Java and Angular**
+🌱 I’m currently deepening my knowledge on **Java and VueJs**
 
 👨‍💻 All of my projects are available at [my repositories](https://github.com/DanSowaru?tab=repositories)
 
