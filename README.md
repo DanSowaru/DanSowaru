@@ -22,8 +22,6 @@
 
 
 <span align="center">
-  
-  <br>
 
 🔭 I’m currently working on [my Vue game Stray Dogs](https://github.com/DanSowaru/stray-dogs-v6)
 
@@ -68,7 +66,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dansowaru&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dansowaru" /></p>
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansowaru&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 
