@@ -19,7 +19,7 @@
 </div>
 
 
-
+<br />
 <span align="center">
 
 🔭 I’m currently working on [my Vue game Stray Dogs](https://github.com/DanSowaru/stray-dogs-v6)
