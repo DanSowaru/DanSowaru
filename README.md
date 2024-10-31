@@ -17,7 +17,6 @@
 | <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansowaru&theme=dracula&row=3&column=3&margin-h=30&margin-w=5" alt="dansowaru" /></a> </p> | <p align="center"><a href="https://https://github.com/DanSowaru/DanSowaru"><img src="https://github.com/DanSowaru/DanSowaru/blob/main/devcard.svg" width="300" alt="Dan Sowaru's Dev Card"/></a></p> |
 
 </div>
-<br>
 
 
 
@@ -66,8 +65,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dansowaru&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dansowaru" /></p>
 
-<span align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansowaru&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-</span>
+
 
 
